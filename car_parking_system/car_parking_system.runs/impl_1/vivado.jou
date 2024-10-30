@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Mar  4 17:31:23 2023
+# Process ID: 1436
+# Current directory: F:/Vivado designs/car_parking_system/car_parking_system.runs/impl_1
+# Command line: vivado.exe -log parking_system.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source parking_system.tcl -notrace
+# Log file: F:/Vivado designs/car_parking_system/car_parking_system.runs/impl_1/parking_system.vdi
+# Journal file: F:/Vivado designs/car_parking_system/car_parking_system.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source parking_system.tcl -notrace
